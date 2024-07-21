@@ -1,0 +1,1 @@
+DriverBooleano: Driver que testea todas las funciones de la subclase de atributo, la clase Booleano del domain model.

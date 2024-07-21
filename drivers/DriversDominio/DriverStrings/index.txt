@@ -1,0 +1,1 @@
+DriverStrings: Driver que testea todas las funciones de la subclase de atributo, la clase Strings del domain model.

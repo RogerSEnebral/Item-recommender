@@ -1,0 +1,5 @@
+ratings.db.csv: contiene los datos de las valoraciones necesarios para utilizar el driver.
+
+items.csv: contiene los datos de los items necesarios para utilizar el driver.
+
+driverGestorItem.txt: explicacion del funcionamiento del DriverGestorItem.

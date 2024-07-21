@@ -1,0 +1,20 @@
+Objecte de la prova: Trata los casos de uso de Valorar un Item y Eliminar la Valoracion.
+
+Altres elements integrats a la prova: Ninguno.
+
+Drivers construïts per aquesta prova: Se construye el DriverValoracion.
+
+Fitxers de dades necessaris: Ninguno.
+
+Valors estudiats: Es una test interactivo, asi que depende de los valores que se escriban
+
+Efectes estudiats: Miramos si podemos interactuar con la clase Valoracion.
+
+Operativa: Depende de lo que se escriba:
+    equals -> Retorna true si las 2 valoraciones son iguales y false en caso contrario.
+    setPuntuacion -> Sobreescribe la puntuacion actual por la introducida.
+    getPuntuacion -> Retorna la puntuacion de la valoracion.
+    setUserID -> Cambia el userID de la Valoracion por el introducido.
+    getUserID -> Retorna el userID de la valoracion.
+    setItemID -> Cambia el itemID de la Valoracion por el introducido.
+    getItemID -> Retorna el itemID de la valoracion.

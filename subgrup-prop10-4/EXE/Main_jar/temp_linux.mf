@@ -1,0 +1,3 @@
+Main-Class: FONTS.CapaDePresentacion.Main
+Class-Path: ../../FONTS/lib/opencsv-5.5.2.jar ../../FONTS/lib/opencsv-5.5.2.jar ../../FONTS/lib/commons-lang3-3.12.0/commons-lang3-3.12.0-javadoc.jar ../../FONTS/lib/commons-lang3-3.12.0/commons-lang3-3.12.0-tests.jar ../../FONTS/lib/commons-lang3-3.12.0/commons-lang3-3.12.0-sources.jar ../../FONTS/lib/commons-lang3-3.12.0/commons-lang3-3.12.0.jar ../../FONTS/lib/commons-lang3-3.12.0/commons-lang3-3.12.0-test-sources.jar ../../FONTS/lib/hamcrest-core-1.3.jar ../../FONTS/lib/junit-4.12.jar
+Sealed: true

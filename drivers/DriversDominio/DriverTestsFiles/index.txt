@@ -1,0 +1,1 @@
+Contiene todos los archivos necesarios que usen los drivers para leer o escribir.

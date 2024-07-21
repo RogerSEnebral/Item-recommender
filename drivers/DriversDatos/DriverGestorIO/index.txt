@@ -1,0 +1,1 @@
+driverGestorIO.txt: explicacion del funcionamiento del DriverGestorIO.

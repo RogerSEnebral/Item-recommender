@@ -1,0 +1,23 @@
+DriverTestFiles: incluye los archivos necesarios para testear los drivers.
+
+DriverAlgoritmos: incluye lo necesario para testear la clase Algoritmos.
+
+DriverAtributo: incluye lo necesario para testear la clase Atributo.
+
+DriverBooleano: incluye lo necesario para testear la clase Booleano.
+
+DriverCluster: incluye lo necesario para testear la clase Cluster.
+
+DriverCtrlDominio: incluye lo necesario para testear las funcionalidades principales con la clase CtrlDominio.
+
+DriverDoble: incluye lo necesario para testear la clase Doble.
+
+DriverEntero: incluye lo necesario para testear la clase Entero.
+
+DriverItem: incluye lo necesario para testear la clase Item.
+
+DriverStrings: incluye lo necesario para testear la clase Strings.
+
+DriverUser: incluye lo necesario para testear la clase User.
+
+DriverValoracion: incluye lo necesario para testear la clase Valoracion.

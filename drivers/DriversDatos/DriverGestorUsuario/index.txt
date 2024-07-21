@@ -1,0 +1,3 @@
+ratings.db.csv: contiene los datos de las valoraciones necesarios para utilizar el driver.
+
+driverGestorUsuario.txt: explicacion del funcionamiento del DriverGestorUsuario.

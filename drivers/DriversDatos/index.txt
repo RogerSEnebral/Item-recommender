@@ -1,0 +1,5 @@
+DriverGestorIO: incluye lo necesario para testear la clase GestorIO.
+
+DriverGestorItem: incluye lo necesario para testear la clase GestorItem.
+
+DriverGestorUsuario: incluye lo necesario para testear la clase GestorUsuario.

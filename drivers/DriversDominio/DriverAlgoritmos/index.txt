@@ -1,0 +1,3 @@
+TestRunner: Driver que contiene el main para ejecutar la clase AlgoritmosTest , que prueba la clase algoritmos del controlador de dominio con Junit.
+
+AlgoritmosTest: Test de Junit de la clase algoritmos con su implementacion.

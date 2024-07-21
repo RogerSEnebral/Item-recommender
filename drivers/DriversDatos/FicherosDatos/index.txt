@@ -1,0 +1,11 @@
+Ficheros donde se guardan los datos de la base de datos del programa, para guardar información entre ejecuciones.
+
+items.csv: fichero donde se guardan los items del programa con sus atributos.
+
+ratings.db.csv: fichero donde se guardan las valoraciones del programa.
+
+ratings.test.known.csv: fichero donde se guardan las valoraciones de usuarios que no se encuentran en ratings.db.csv. Su funcion es la de simular usuarios activos y formar las queries.
+
+ratings.test.unknown.csv: fichero donde se guardan valoraciones que no se encuentran en ninguno de los otros ficheros. 
+Estas valoraciones simulan los items que el usuario quiere valorar, y tienen como puntuacion la puntuacion real. Sirven para formar las queries.
+
